@@ -6,7 +6,7 @@
 
 
 ### Check out my other projects:
-- [Bonkjs](https://niightap.github.io/bonkjs) :
+- [Bonkjs](https://niightap.github.io/bonkjs) 
 - [NiightGamez](https://niightgamez.weebly.com/)
 
 
