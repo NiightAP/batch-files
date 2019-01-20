@@ -6,8 +6,8 @@
 
 
 ### Check out my other projects:
-[Bonkjs](https://niightap.github.io/bonkjs) :
-[NiightGamez](https://niightgamez.weebly.com/)
+*[Bonkjs](https://niightap.github.io/bonkjs) :
+*[NiightGamez](https://niightgamez.weebly.com/)
 
 
 ### Contact and Support:
