@@ -4,4 +4,4 @@
 
 ### Support or Contact
 
-[Contact](https://niightgamez.weebly.com/contact.html) [Support Email](mailto:niightapi@gmail.com)
+[Contact](https://niightgamez.weebly.com/contact.html) : [Support Email](mailto:niightapi@gmail.com)
