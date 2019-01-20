@@ -2,6 +2,6 @@
 
 
 
-### Support or Contact
+### Contact and Support
 
 [Contact](https://niightgamez.weebly.com/contact.html) : [Support Email](mailto:niightapi@gmail.com)
