@@ -1,6 +1,6 @@
-## Welcome to NiightAP Batch Files
+# Welcome to NiightAP Batch Files
 
-
+## To use these files please click on "Clone or Download" then click "Download ZIP"
 
 ### Contact and Support
 
